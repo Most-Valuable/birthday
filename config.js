@@ -11,7 +11,7 @@ var config = {
         "只要你愿意",
         "以后每一次生日",
         "我都陪你过",
-        "好吗"
+        "好吗😘"
         
        
     ],
@@ -30,13 +30,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "点我一下,宝贝",
+        turn_on: "点我一下,宝贝😉",
         play: "也许会有一段音乐😊",
-        bannar_coming: "嘿嘿",
-        balloons_flying: "好像少点什么东西??",
+        bannar_coming: "嘿嘿😁",
+        balloons_flying: "好像少点什么东西??🤔",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐，宇琦宝贝!!",
-        story: "还有一小段对宝贝说的话",
+        story: "还有一小段对宝贝说的话💕",
     }
 };
