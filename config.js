@@ -11,6 +11,7 @@ var config = {
         "只要你愿意",
         "以后每一次生日",
         "我都陪你过",
+        "好吗"
         
        
     ],
@@ -25,12 +26,12 @@ var config = {
      */
     imgs: {
         "最爱的宝贝~": "./imgs/xiaokeai.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "好吗": "./imgs/to.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "点我一下,宝贝",
-        play: "可能会有一段音乐",
+        play: "也许会有一段音乐😊",
         bannar_coming: "嘿嘿",
         balloons_flying: "好像少点什么东西??",
         cake_fadein: "蛋糕？",
