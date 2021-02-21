@@ -30,12 +30,12 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "点我一下,宝贝",
-        play: "BGM起!",
+        play: "可能会有一段音乐",
         bannar_coming: "嘿嘿",
         balloons_flying: "好像少点什么东西??",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐，宇琦宝贝!!",
-        story: "还有一小段对宝贝说的话啦",
+        story: "还有一小段对宝贝说的话",
     }
 };
