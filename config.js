@@ -26,7 +26,7 @@ var config = {
      */
     imgs: {
         "最爱的宝贝~": "./imgs/xiaokeai.jpg",
-        "好吗": "./imgs/to.jpg",
+        "好吗": "./imgs/face.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
